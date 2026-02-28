@@ -1,0 +1,1 @@
+[![Test Workflow](https://github.com/24f2008965/GitHub-Actions-Workflow-Status-Badge-Goal-/actions/workflows/test.yml/badge.svg)](https://github.com/24f2008965/GitHub-Actions-Workflow-Status-Badge-Goal-/actions/workflows/test.yml)
